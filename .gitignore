@@ -1,0 +1,71 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.bzr/
+.dub
+.hg/
+.svn/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code
+.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub/
+.pub-cache/
+.pub-preload-cache
+build/
+coverage/
+.metadata
+.mason/
+
+# Android related
+**/android/.gradle/
+**/android/app/debug
+**/android/app/profile
+**/android/app/release
+**/android/local.properties
+AndroidManifest.xml
+Generated.xcconfig
+GoogleService-Info.plist
+
+# Symbolication
+app.*.symbols
+app.*.map.json
+
+# Web related
+**/web/*.js_
+**/web/*.js.deps
+**/web/*.js.map
+**/web/*.mjs
+**/web/*.mjs.deps
+**/web/*.mjs.map
+
+# macOS
+**/macos/Flutter/ephemeral/
+**/macos/Pods/
+
+# Windows
+**/windows/.vs/
+**/windows/out/
+**/windows/x64/
+
+# Linux
+**/linux/flutter/ephemeral/
+
+# Flutter generated
+flutter_*.png
