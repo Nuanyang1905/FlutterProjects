@@ -1,0 +1,4 @@
+{"_example": "Fill with {\"file\": \"<path>\", \"reason\": \"<why>\"}. Put spec/research files only — no code paths. Run `python3 .trellis/scripts/get_context.py --mode packages` to list available specs. Delete this line once real entries are added."}
+{"file": ".trellis/tasks/05-02-merge-apps/research/flutter-modular-architecture.md", "reason": "Verify merged app follows the target hybrid structure and MVVM with Provider pattern"}
+{"file": ".trellis/tasks/05-02-merge-apps/research/ble-platform-support.md", "reason": "Verify BLE platform degradation is correctly implemented"}
+{"file": "smart_watering/AGENTS.md", "reason": "Verify watering module preserves original patterns: debounce, echo protection, data format compatibility"}

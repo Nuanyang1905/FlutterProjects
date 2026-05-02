@@ -1,0 +1,7 @@
+{"_example": "Fill with {\"file\": \"<path>\", \"reason\": \"<why>\"}. Put spec/research files only — no code paths. Run `python3 .trellis/scripts/get_context.py --mode packages` to list available specs. Delete this line once real entries are added."}
+{"file": ".trellis/tasks/05-02-merge-apps/research/flutter-modular-architecture.md", "reason": "Target directory structure, MVVM with Provider, single-package strategy, BLE platform-specific handling patterns"}
+{"file": ".trellis/tasks/05-02-merge-apps/research/ble-platform-support.md", "reason": "BLE platform support matrix, Web limitations (50% API gaps), graceful degradation with abstract interface"}
+{"file": ".trellis/tasks/05-02-merge-apps/research/bemfa-api-status.md", "reason": "Bemfa HTTP API endpoints confirmation, no breaking changes, polling best practices"}
+{"file": "smart_watering/AGENTS.md", "reason": "Detailed smart_watering app docs: architecture, data protocols (3-format parsing), Provider patterns, debounce mechanisms, command echo protection"}
+{"file": "smart_watering/pubspec.yaml", "reason": "Combined dependency reference: provider, http, shared_preferences, flutter_blue_plus, permission_handler"}
+{"file": "miniarm_flutter/pubspec.yaml", "reason": "miniarm dependency reference: flutter_blue_plus, permission_handler"}
